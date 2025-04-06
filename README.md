@@ -19,7 +19,7 @@ This project is a multiplayer third-person movement demo built using **Unity 600
 - Unity's Starter Assets - Third Person Character Controller (for model & animation)
 - Cinemachine 3.1.3
 
-## 🧪 How to Test
+## How to Test
 
 ### 1. Launch Test in Editor
 - Open `Menu.unity` scene.
