@@ -24,7 +24,9 @@ This project is a multiplayer third-person movement demo built using **Unity 600
 ### 1. Launch Test in Editor
 - Open `Menu.unity` scene.
 - Press **Play**.
+- Enter your desired name in the **InputField** (this name will show above your character).
 - Use **Host** button to start the game.
+- A **loading screen** will appear briefly before entering the game.
 - A player will spawn in the game world.
 
 ### 2. Add a Second Player (Multiplayer Test)
