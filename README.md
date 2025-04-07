@@ -1,5 +1,5 @@
 # unity-photon-assignment
-This project is a simple multiplayer third-person movement demo built using **Unity 6000.0.37f1** and **Photon Fusion 2 (Shared Mode)**. It features smooth third-person character control, basic networking for movement synchronization, and a simple lobby-to-game flow.
+This project is a multiplayer third-person movement demo built using **Unity 6000.0.37f1** and **Photon Fusion 2 (Shared Mode)**. It features smooth third-person character control, basic networking for movement synchronization, and a simple lobby-to-game flow.
 
 ## Features
 
